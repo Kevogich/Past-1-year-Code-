@@ -4,7 +4,7 @@ def myScript():
         # Rate our Love!! 
     ###   Press F5
     ## then input a rating for our relationship so far
-    love_rate = raw_input("Jacky Type a rating for our relationship:")   
+    love_rate = raw_input("Jacky,Type a rating for our relationship:")   
 	### word answers
     idk = 'idk'
     no = 'no' 
